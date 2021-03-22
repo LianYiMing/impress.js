@@ -65,7 +65,7 @@ body {
     border: none;
     box-shadow: none;
     pointer-events: none;
-    display: none;
+    display: true;
 }
 .overview.active {
     display: block;
@@ -168,3 +168,9 @@ small {
     padding-left: 200px;
     text-align: right;
 }
+.overview1 {
+
+ font-size: 25pt;}
+.overview2 {
+
+ font-size: 15pt;}
